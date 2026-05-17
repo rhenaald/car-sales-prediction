@@ -239,7 +239,6 @@ export default function App() {
 
       {/* HERO */}
       <section className="hero">
-        <div className="hero-eyebrow">AI POWERED CAR VALUATION</div>
         <h1 className="hero-title">
           SMART CAR
           <br />
